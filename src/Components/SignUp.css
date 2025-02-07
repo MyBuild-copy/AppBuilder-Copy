@@ -1,0 +1,11 @@
+.animate__fadeIn {
+  animation-duration: 1s;
+}
+
+.btn-success {
+  transition: transform 0.2s ease-in-out;
+}
+
+.btn-success:hover {
+  transform: scale(1.05);
+}

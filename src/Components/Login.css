@@ -1,0 +1,11 @@
+.animate__fadeIn {
+  animation-duration: 1s;
+}
+
+.btn-primary {
+  transition: transform 0.2s ease-in-out;
+}
+
+.btn-primary:hover {
+  transform: scale(1.05);
+}
